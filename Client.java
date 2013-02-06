@@ -1,5 +1,3 @@
-package edu.buffalo.cse.cse486_586.simpledht;
-
 import java.io.IOException;
 import java.io.ObjectOutputStream;
 import java.net.InetAddress;
